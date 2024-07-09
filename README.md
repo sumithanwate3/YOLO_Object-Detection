@@ -24,8 +24,7 @@ The output of the YOLO model includes:
 - **Confidence Scores**: Probability scores indicating the likelihood that the detected object belongs to a particular class.
 - **Class Labels**: Identified object classes such as 'person', 'car', 'bicycle', etc.
 
-<img src="https://github.com/sumithanwate3/YOLO_Object-Detection/assets/96422074/d02cd464-1bb5-47a9-a105-a8f47c9dac83" alt="YOLO Image 1" style="width: 100%; max-width: 800px;">
-
+<img src="https://github.com/sumithanwate3/YOLO_Object-Detection/assets/96422074/28455260-9609-442b-8d57-79c00265dced" alt="YOLO Image 1" style="width: 100%; max-width: 800px;">
 
 ## Weights Used
 The project uses pre-trained weights provided by the YOLOv3 model. These weights are stored in the file `yolov3.weights`. The model configuration is defined in `yolov3.cfg`.

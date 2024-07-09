@@ -18,11 +18,13 @@ This project demonstrates the implementation of YOLO (You Only Look Once), a sta
 The model used in this project is YOLOv3 (You Only Look Once version 3). YOLOv3 is known for its speed and accuracy in object detection tasks. Unlike traditional methods, YOLO applies a single neural network to the full image, which divides the image into regions and predicts bounding boxes and probabilities for each region.
 
 ## Output
+
 The output of the YOLO model includes:
 - **Bounding Boxes**: Rectangular boxes around detected objects.
 - **Confidence Scores**: Probability scores indicating the likelihood that the detected object belongs to a particular class.
 - **Class Labels**: Identified object classes such as 'person', 'car', 'bicycle', etc.
-  ![YOLO_image1](https://github.com/sumithanwate3/YOLO_Object-Detection/assets/96422074/d02cd464-1bb5-47a9-a105-a8f47c9dac83)
+
+<img src="https://github.com/sumithanwate3/YOLO_Object-Detection/assets/96422074/d02cd464-1bb5-47a9-a105-a8f47c9dac83" alt="YOLO Image 1" style="width: 100%; max-width: 800px;">
 
 
 ## Weights Used
